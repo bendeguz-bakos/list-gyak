@@ -1,0 +1,16 @@
+table{
+    border-collapse: collapse;
+    border: 1px solid #000;
+    padding: 10px;
+    width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, sans-serif;
+    color: #fd0101;
+}
+td, th {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: center;
+}
